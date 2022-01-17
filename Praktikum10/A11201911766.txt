@@ -1,0 +1,56 @@
+Mochamad Reza Septian
+A11.2019.11766
+
+1.Cube Component 
+-Transform
+-Cube(Mesh Filter)
+-Mesh Renderer
+-materials
+-lighting
+-probes
+-box collider
+
+2.Sphere component
+-Transform
+-sphere(Mesh Filter) 
+-Mesh Renderer 
+-materials
+-lighting
+-probes 
+-sphere collider
+
+3.Capsule component
+-Transform, 
+-Capsule(Mesh Filter)
+-Mesh Renderer
+-materials 
+-lighting 
+-probes
+-Capsule collider
+
+4.Cylinder component
+-Transform 
+-Cylinder(Mesh Filter)
+-Mesh Renderer 
+-materials 
+-lighting 
+-probes
+-Capsule collider
+
+5.Plane component
+-Transform, 
+-Plane(Mesh Filter) 
+-Mesh Renderer 
+-materials
+-lighting
+-probes 
+-Mesh collider
+
+6.Quad component
+-Transform
+-Quad(Mesh Filter)
+-Mesh Renderer
+-materials
+-lighting
+-probes
+-Mesh collider
